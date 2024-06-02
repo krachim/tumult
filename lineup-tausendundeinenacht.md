@@ -1,4 +1,4 @@
-# Tausend und eine Nacht :unicorn:
+# Tausend und eine Nacht
 
 ## Freitag
 

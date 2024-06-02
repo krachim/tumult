@@ -1,4 +1,4 @@
-# Korallenwald :tropical_fish:
+# Korallenwald
 
 ## Freitag
 

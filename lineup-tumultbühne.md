@@ -1,4 +1,4 @@
-# Tumultbühne :fox_face:
+# Tumultbühne
 
 ## Freitag
 
