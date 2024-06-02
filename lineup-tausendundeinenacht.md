@@ -1,4 +1,4 @@
-# Tausend und eine Nacht
+# Tausend und eine Nacht :unicorn:
 
 ## Freitag
 
@@ -12,7 +12,7 @@
 ## Samstag
 
 ```
-23:00 - 01:00 Uhr | SexytumltParty start 11:11 PM Zeromony + DJ special guest + Tamersutra
+23:00 - 01:00 Uhr | SexytumltParty start 11:11 PM Zeromony / Lino & Tamersutra
 01:00 - 03:00 Uhr | malcolmmix
 03:00 - 05:00 Uhr | Stefan Gazoni
 05:00 - 07:00 Uhr | Filibration

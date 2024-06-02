@@ -1,4 +1,4 @@
-# Waldbühne
+# Korallenwald
 
 ## Freitag
 
@@ -6,7 +6,7 @@
 17:00 | Sophya
 19:00 | Dael
 21:00 | Steffie Storno
-23:00 | ISeeMonsters \*live
+23:00 | ISeeMonsters *live
 01:00 | Ludwig Zibell
 03:00 | Krachim
 05:00 | Selunia
@@ -20,7 +20,7 @@
 ```
 12:30 | Sacred Fool
 14:30 | Suart
-16:30 | Jacky Houser-Brown live
+16:30 | Jacky Houser-Brown *live
 18:30 | Karo und Chuck
 20:00 | Noelia & JoFunk
 22:00 | Ya‘know me
@@ -38,5 +38,5 @@
 12:00 | Molto
 14:00 | Tanao
 16:00 | Kopört
-18:00 | Lino**
+18:00 | _TBD Lino_
 ```
