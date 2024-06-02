@@ -12,7 +12,7 @@
 05:00 | Selunia
 07:00 | Max Blumen
 09:00 | BNE
-10:30 | Idris
+10:30 | Idriss Mahjoubi
 ```
 
 ## Samstag

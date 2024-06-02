@@ -12,7 +12,7 @@
 05:00 - 07:00 Uhr | Selunia
 07:00 - 09:00 Uhr | Max Blumen
 09:00 - 10:30 Uhr | BNE
-10:30 - 12:30 Uhr | Idris
+10:30 - 12:30 Uhr | Idriss Mahjoubi
 ```
 
 ## Samstag
