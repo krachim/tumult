@@ -38,5 +38,4 @@
 12:00 - 14:00 Uhr | Molto
 14:00 - 16:00 Uhr | Tanao
 16:00 - 18:00 Uhr | Kopört
-18:00 - 20:00 Uhr | _TBD Lino_
 ```

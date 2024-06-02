@@ -11,10 +11,10 @@
 
 ## Samstag
 
-| Startzeit | 1000+1 Nacht                                                     |
-| --------- | ---------------------------------------------------------------- |
-| 20:00     | Noelia & JoFunk                                                  |
-| 23:00     | SexytumltParty start 11:11 PM Zeromony / _TBD Lino_ & Tamersutra |
-| 01:00     | malcolmmix                                                       |
-| 03:00     | Stefan Gazoni                                                    |
-| 05:00     | Filibration                                                      |
+| Startzeit | 1000+1 Nacht                                                        |
+| --------- | ------------------------------------------------------------------- |
+| 20:00     | Noelia & JoFunk                                                     |
+| 23:00     | SexytumltParty start 11:11 PM Zeromony / Stefan Gazoni & Tamersutra |
+| 01:00     | malcolmmix                                                          |
+| 03:00     | Lino                                                                |
+| 05:00     | Filibration                                                         |

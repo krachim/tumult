@@ -12,8 +12,8 @@
 ## Samstag
 
 ```
-23:00 Uhr | SexytumltParty start 11:11 PM Zeromony / _TBD Lino_ & Tamersutra
+23:00 Uhr | SexytumltParty start 11:11 PM Zeromony / Stefan Gazoni & Tamersutra
 01:00 Uhr | malcolmmix
-03:00 Uhr | Stefan Gazoni
+03:00 Uhr | Lino
 05:00 Uhr | Filibration
 ```
