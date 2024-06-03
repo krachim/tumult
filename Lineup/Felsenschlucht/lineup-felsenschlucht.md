@@ -37,5 +37,5 @@
 12:00 - 14:00 Uhr | Scherbendieb
 14:00 - 15:00 Uhr | Fernanda Tarrech *live
 15:00 - 17:00 Uhr | Ran
-17:00 - 20:00 Uhr | Tumultes Closing
+17:00 - 20:00 Uhr | Tumulties Closing
 ```
