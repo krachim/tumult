@@ -35,7 +35,7 @@
 ## Sonntag
 
 ```
-12:00 | Molto
-14:00 | Tanao
+12:00 | Tanao
+14:00 | Molto
 16:00 | Kopört
 ```
