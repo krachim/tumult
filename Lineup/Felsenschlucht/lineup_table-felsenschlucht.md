@@ -1,8 +1,8 @@
-# Tumultbühne
+# Felsenschlucht
 
 ## Freitag
 
-| Startzeit | Tumultbühne                  
+| Startzeit | Felsenschlucht                  
 | --------- | ---------------------------- 
 | 16:00     | Julius von Ohm               
 | 18:00     | BabyGirl & Monsieur Matthieu 
@@ -16,7 +16,7 @@
 
 ## Samstag
 
-| Startzeit | Tumultbühne                          
+| Startzeit | Felsenschlucht                          
 | --------- | -------------------------------------
 | 12:00     | Alex Rechberg                        
 | 13:00     | suzisuzuki \*live                    
@@ -25,7 +25,7 @@
 | 18:00     | Taphani X Benkest \*live / Floor Core
 | 20:00     | Tamer                                
 | 23:00     | Dario Klein & Sancho                 
-| 01:00     | Lotte Ahoi & Nigel Nagel             
+| 01:00     | Lotte Ahoi \| Nigel Nagel             
 | 03:00     | slevtreff                            
 | 05:00     | Floio                                
 | 07:00     | Schnuppo & Maltech Miami             
@@ -33,7 +33,7 @@
 
 ## Sonntag
 
-| Startzeit | Tumultbühne             
+| Startzeit | Felsenschlucht             
 | --------- | ----------------------- 
 | 12:00     | Scherbendieb            
 | 14:00     | Fernanda Tarrech \*live 
